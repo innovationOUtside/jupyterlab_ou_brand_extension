@@ -1,0 +1,3 @@
+jupyterlab
+
+./dist/jupyterlab_ou_brand_extension-0.1.0-py3-none-any.whl
