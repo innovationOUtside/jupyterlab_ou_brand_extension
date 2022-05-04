@@ -7,7 +7,7 @@ Demo [Retroab / notebook v.7 sie via JupyterLite](http://innovationoutside.githu
 
 To install the prebuilt extension from a wheel:
 
-`pip3 install --upgrade https://github.com/innovationOUtside/jupyterlab_ou_brand_extension/main/dist/jupyterlab_ou_brand_extension-0.1.0-py3-none-any.whl`
+`pip3 install --upgrade https://raw.githubusercontent.com/innovationOUtside/jupyterlab_ou_brand_extension/main/dist/jupyterlab_ou_brand_extension-0.1.0-py3-none-any.whl`
 
 Custom logos applied to:
 
