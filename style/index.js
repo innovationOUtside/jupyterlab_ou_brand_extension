@@ -8,7 +8,7 @@ let link = document.createElement('link')
 let oldLink = document.getElementsByClassName('favicon');
 link.rel = 'icon';
 link.type = 'image/x-icon';
-link.href = 'https://www.open.ac.uk/oudigital/v4/external/img/favicons/favicon.png';
+link.href = 'https://raw.githubusercontent.com/innovationOUtside/jupyterlab_ou_brand_extension/main/style/images/favicon.ico';
 if (oldLink) {
     link.classList = oldLink[0].classList;
     head.removeChild(oldLink[0]);
