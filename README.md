@@ -17,3 +17,5 @@ Custom logos applied to:
 - favicons
 
 ![](./images/branding_logos_jupyterlab.png)
+
+About: [Custom Branded Logos for JupyterLab and RetroLab (Jupyter notebook v.7)](https://blog.ouseful.info/2022/04/29/custom-branded-logos-for-jupyterlab-and-retrolab-jupyter-notebook-v-7/)
