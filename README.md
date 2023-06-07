@@ -25,6 +25,10 @@ About: [Custom Branded Logos for JupyterLab and RetroLab (Jupyter notebook v.7)]
 ```bash
 # Build
 pip install build
+
+#Install the package
+pip install .
+
 # Node MUST BE INSTALLED
 python -m build
 # packages built into ./dist
