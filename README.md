@@ -19,3 +19,17 @@ Custom logos applied to:
 ![](./images/branding_logos_jupyterlab.png)
 
 About: [Custom Branded Logos for JupyterLab and RetroLab (Jupyter notebook v.7)](https://blog.ouseful.info/2022/04/29/custom-branded-logos-for-jupyterlab-and-retrolab-jupyter-notebook-v-7/)
+
+## Building and Pushing Newly Built Wheels to PyPi
+
+```bash
+# Build
+pip install build
+# Node MUST BE INSTALLED
+python -m build
+# packages built into ./dist
+
+# Push to PyPi
+pip install twine
+twine upload MY_PACKAGE.whl
+```
