@@ -4,7 +4,7 @@ node_modules/
 .ipynb_checkpoints
 *.tsbuildinfo
 jupyterlab_ou_brand_extension/labextension
-
+.yarn/
 # Created by https://www.gitignore.io/api/python
 # Edit at https://www.gitignore.io/?templates=python
 
