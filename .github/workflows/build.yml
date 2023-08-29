@@ -48,6 +48,7 @@ jobs:
       run: python -m pip install -U jupyterlab>=3.0 jupyter_packaging>=0.7.9
     - name: Build the extension
       run: |
+        yarn install
         yarn upgrade
         jlpm
         python -m pip install .
