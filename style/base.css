@@ -3,7 +3,7 @@
     background-repeat: no-repeat;
 }
 
-#jp-MainLogo > svg {
+#jp-MainLogo>svg {
     visibility: hidden;
 }
 
@@ -12,6 +12,15 @@
     background-repeat: no-repeat;
 }
 
-#jp-RetroLogo > svg {
+#jp-RetroLogo>svg {
+    visibility: hidden;
+}
+
+#jp-NotebookLogo {
+    background-image: url(./images/OU-logo-53x42.png);
+    background-repeat: no-repeat;
+}
+
+#jp-NotebookLogo>svg {
     visibility: hidden;
 }
