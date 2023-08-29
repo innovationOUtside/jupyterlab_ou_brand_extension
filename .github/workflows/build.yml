@@ -48,6 +48,7 @@ jobs:
       run: python -m pip install -U jupyterlab>=3.0 jupyter_packaging>=0.7.9
     - name: Build the extension
       run: |
+        yarn upgrade
         jlpm
         python -m pip install .
         jupyter labextension list 2>&1 | grep -ie "jupyterlab_ou_brand_extension.*OK"
