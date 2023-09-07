@@ -1,6 +1,6 @@
 {
   "name": "jupyterlab_ou_brand_extension",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Custom branding extension for JupyterLab and RetroLab",
   "keywords": [
     "jupyter",
