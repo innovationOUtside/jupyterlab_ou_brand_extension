@@ -1,10 +1,10 @@
-# a mybinder.org-ready environment for demoing jupyterlab_ou_brand_extension
+# a mybinder.org-ready environment for demoing cdm_jupyterlab_brand_extension
 # this environment may also be used locally on Linux/MacOS/Windows, e.g.
 #
 #   conda env update --file binder/environment.yml
-#   conda activate jupyterlab_ou_brand_extension-demo
+#   conda activate cdm_jupyterlab_brand_extension-demo
 #
-name: jupyterlab_ou_brand_extension-demo
+name: cdm_jupyterlab_brand_extension-demo
 
 channels:
   - conda-forge

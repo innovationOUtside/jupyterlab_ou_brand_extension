@@ -1,5 +1,5 @@
 """
-jupyterlab_ou_brand_extension setup
+cdm_jupyterlab_brand_extension setup
 """
 import json
 from pathlib import Path
@@ -16,7 +16,7 @@ import setuptools
 HERE = Path(__file__).parent.resolve()
 
 # The name of the project
-name = "jupyterlab_ou_brand_extension"
+name = "cdm_jupyterlab_brand_extension"
 
 lab_path = (HERE / name / "labextension")
 
@@ -29,7 +29,7 @@ package_data_spec = {
     name: ["*"],
 }
 
-labext_name = "jupyterlab_ou_brand_extension"
+labext_name = "cdm_jupyterlab_brand_extension"
 
 data_files_spec = [
     ("share/jupyter/labextensions/%s" % labext_name, str(lab_path), "**"),

@@ -4,4 +4,4 @@ node_modules
 **/package.json
 **/static
 build
-jupyterlab_ou_brand_extension/labextension
+cdm_jupyterlab_brand_extension/labextension

@@ -1,5 +1,5 @@
 jupyterlab~=3.3.0
 jupyterlite==0.1.0b4
 
-./dist/jupyterlab_ou_brand_extension-0.1.0-py3-none-any.whl
+./dist/cdm_jupyterlab_brand_extension-0.1.0-py3-none-any.whl
 

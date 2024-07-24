@@ -1,6 +1,6 @@
 {
-  "name": "jupyterlab_ou_brand_extension",
-  "version": "0.2.3",
+  "name": "cdm_jupyterlab_brand_extension",
+  "version": "0.1.0",
   "description": "Custom branding extension for JupyterLab and RetroLab",
   "keywords": [
     "jupyter",
@@ -50,7 +50,7 @@
   "styleModule": "style/index.js",
   "jupyterlab": {
     "extension": true,
-    "outputDir": "jupyterlab_ou_brand_extension/labextension"
+    "outputDir": "cdm_jupyterlab_brand_extension/labextension"
   },
   "dependencies": {
     "@jupyterlab/builder": "^4.0.5"
