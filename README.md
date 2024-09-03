@@ -5,6 +5,8 @@ Simple extension to apply custom brand logos JupyterLab.
 Demo [JupyterLab site via JupyterLite](http://innovationoutside.github.io/jupyterlab_ou_brand_extension/)
 Demo [RetroLab / notebook v.7 site via JupyterLite](http://innovationoutside.github.io/jupyterlab_ou_brand_extension/retro)
 
+Install from PyPi [[here](https://pypi.org/project/jupyterlab-ou-brand-extension/)]: `pip install jupyterlab_ou_brand_extension`
+
 To install the prebuilt extension from a wheel:
 
 `pip3 install --upgrade https://raw.githubusercontent.com/innovationOUtside/jupyterlab_ou_brand_extension/main/dist/jupyterlab_ou_brand_extension-0.1.0-py3-none-any.whl`
